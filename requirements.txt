@@ -1,0 +1,10 @@
+torch>=2.0.0
+transformers>=4.21.0
+tokenizers>=0.13.0
+numpy>=1.21.0
+pandas>=1.3.0
+scikit-learn>=1.0.0
+tqdm>=4.62.0
+matplotlib>=3.5.0
+# sentencepiece>=0.1.97  # Commented out due to build issues
+protobuf>=3.20.0 
